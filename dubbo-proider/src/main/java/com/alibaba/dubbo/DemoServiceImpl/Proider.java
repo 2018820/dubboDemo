@@ -11,5 +11,6 @@ public class Proider {
 		context.start();
 		System.out.println("服务已经启动");
 		System.in.read();
+		System.out.println("test");
 	}
 }
